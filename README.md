@@ -57,7 +57,7 @@ I worked also as freelance developer on [Fiverr](https://www.fiverr.com/), [Upwo
 ---
 
 [website]: https://www.sriidea.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDavideAgostini&screen_name=hellosknath
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhellosknath&screen_name=hellosknath
 [linkedin]: https://linkedin.com/in/hellosknath
 [github]: https://github.com/hellosknath
 [instagram]: https://www.instagram.com/hellosknath
