@@ -63,4 +63,4 @@ I worked also as freelance developer on [Fiverr](https://www.fiverr.com/), [Upwo
 [instagram]: https://www.instagram.com/hellosknath
 
 
-![Valdio's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdio&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+![Srinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellosknath&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
