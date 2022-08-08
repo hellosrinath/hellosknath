@@ -63,11 +63,4 @@ I worked also as freelance developer on [Fiverr](https://www.fiverr.com/), [Upwo
 [instagram]: https://www.instagram.com/hellosknath
 
 
-<!-- Following
-[![GitHub followers](https://img.shields.io/github/followers/DavideAgostini?logo=GitHub&style=for-the-badge)][github]
-
-[github]: https://github.com/DavideAgostini
--->
-
-
 ![Valdio's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdio&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
